@@ -1,0 +1,10 @@
+# Latest version: https://pypi.python.org/pypi/Flask
+Flask==0.12.2
+# Prevent ImportError: cannot import name SpooledTemporaryFile
+werkzeug==0.12.2
+
+geopy==1.19.0
+
+requests==2.21.0
+
+GoogleAppEngineCloudStorageClient==1.9.22.1
